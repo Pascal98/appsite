@@ -1,16 +1,50 @@
 body
 {
 	text-align: center;
+	background-color: black;
+	color: white;
+	font-family: verdana;
+	font-weight: normal;
 }
 
 .title
 {
 	font-size: 50px;
 	font-family: verdana;
+	color: white;
+	font-weight: normal;
 }
 
-.head a
+.link 
 {
 	color: aquamarine;
 	font-size: 16px;
+}
+
+.content
+{
+	margin-top: 35px;
+}
+
+.title h1
+{
+	font-weight: 300;
+	font-size: 42px;
+}
+
+.content p
+{
+	color: gray;
+	font-size: 21px;
+}
+
+.icon
+{
+	margin-top: 20px;
+}
+
+.copyright
+{
+	text-align: right;
+	color: gray;
 }
